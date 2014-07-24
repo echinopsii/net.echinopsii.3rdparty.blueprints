@@ -1,6 +1,7 @@
 *.log
 target/
 *.iml
+*.xml
 .idea/
 *.iws
 *.DS_Store
